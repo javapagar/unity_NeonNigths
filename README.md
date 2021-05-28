@@ -3,7 +3,7 @@ first videogame with Unity developed for Telefonica course
 
 youtube: https://www.youtube.com/watch?v=SpA0UQL7XBQ
 
-You can download de videogame:
+You can download from itch.io:
 * for windows: https://captainvinager.itch.io/neonnightsjavieraparicio
 * for mac: https://captainvinager.itch.io/neonnightsmacjavieraparicio
 
